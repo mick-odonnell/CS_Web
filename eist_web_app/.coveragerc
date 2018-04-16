@@ -1,0 +1,3 @@
+[run]
+source = eist_web_app
+omit = eist_web_app/test*
